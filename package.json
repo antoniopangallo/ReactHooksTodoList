@@ -1,0 +1,29 @@
+{
+  "name": "reacthookstodolist",
+  "version": "1.0.0",
+  "description": null,
+  "keywords": [
+    "javascript",
+    "react hooks",
+    "reactjs"
+  ],
+  "main": "src/index.js",
+  "dependencies": {
+    "react": "16.7.0-alpha.2",
+    "react-dom": "16.7.0-alpha.2",
+    "react-scripts": "2.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}

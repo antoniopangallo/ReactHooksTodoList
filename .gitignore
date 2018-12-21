@@ -1,0 +1,10 @@
+node_modules
+*.log	
+npm-debug.log*
+.git
+.DS_Store
+dist
+build
+target
+.idea/
+__notes__
